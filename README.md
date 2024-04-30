@@ -19,14 +19,7 @@
 - ### 🪐 Instalar Por Code Space🧸
 
 [`CREAR SERVIDOR`](https://github.com/codespaces/new?skip_quickstart=true&machine=basicLinux32gb&repo=738341999&ref=master&geo=UsEast)
-***
-
-- #### 🪐 Instalacion Por Termux Manual👨‍💻
-
-[![blog](https://img.shields.io/badge/Instalacion-Manual-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
-](https://youtu.be/9-v4XwMTJYE?si=STdO2GwZR1GAmXfA)
-
-[`🪐 Instalar Termux Clic Aqui`](https://www.mediafire.com/file/3hsvi3xkpq3a64o/termux_118.apk/file)
+***  
 
 > ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 
