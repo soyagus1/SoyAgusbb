@@ -2,7 +2,7 @@
 
 ## SoyAgusbb - Agusbot - MD 🌼
 <p align="center">
-<img src= "https://img.freepik.com/foto-gratis/personaje-estilo-anime-espacio_23-2151134337.jpg " alt="Nakano" width="900"/>
+<img src= "https://img.freepik.com/foto-gratis/personaje-estilo-anime-espacio_23-2151134337.jpg" alt="Nakano" width="900"/>
 </p>
 
 ### <img src="https://i.pinimg.com/originals/19/80/6e/19806e91932e6054965fc83b85241270.gif" alt="Prueba El Bot Aqui" width="42" height="42"> Prueba El Bot Aqui
