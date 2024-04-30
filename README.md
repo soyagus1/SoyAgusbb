@@ -1,2 +1,0 @@
-# SoyAgusbb
-SoyAgusbb_bot
