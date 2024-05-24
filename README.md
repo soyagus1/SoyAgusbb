@@ -57,7 +57,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 - ### 🪐 Actualizar Yotsuba 🟢
 > Note Comandos para actualizar Yotsuba - MD de forma automática
 ```bash
-grep -q 'bash\|wget' <(dpkg -l) || apt install -y bash wget && wget -O - https://raw.githubusercontent.com/Diego-YL-177/Yotsuba-Nakano-MD/master/update.sh | bash
+grep -q 'bash\|wget' <(dpkg -l) || apt install -y bash wget && wget -O - https://raw.githubusercontent.com/Agusbot-AG-888/Agusbot-Agusbot-MD/master/update.sh | bash
 ```
 Para que no pierda su progreso en Yotsuba, estos comandos realizarán un respaldo de su `database.json` y se agregará a la versión más reciente.
 
