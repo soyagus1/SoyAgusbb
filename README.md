@@ -30,7 +30,7 @@ termux-setup-storage
 apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
 ```
 ```bash
-git clone https://github.com/Diego-YL-177/Yotsuba-Nakano-MD && cd Yotsuba-Nakano-MD
+git clone https://github.com/soyagus1/Agusbot-Agusbot-MD && cd Agusbot-Agusbot-MD
 ```
 ```bash
 yarn install && npm install
@@ -43,15 +43,15 @@ npm start
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> cd Yotsuba-Nakano-MD
+> cd Agusbot-Agusbot-MD
 > npm start
 ```
 
 - ### 🪐 Obtener Otro Codigo Qr👨‍💻 
 ```bash
 > ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
-> cd Yotsuba-Nakano-MD
-> rm -rf NakanoSession
+> cd Agusbot-Agusbot-MD
+> rm -rf AgusbotSession
 > npm start
 ```
 - ### 🪐 Actualizar Yotsuba 🟢
