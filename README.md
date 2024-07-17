@@ -54,8 +54,8 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > rm -rf AgusbotSession
 > npm start
 ```
-- ### 🪐 Actualizar Yotsuba 🟢
-> Note Comandos para actualizar Yotsuba - MD de forma automática
+- ### 🪐 Actualizar Agusbb 🟢
+> Note Comandos para actualizar SoyAgusbb - MD de forma automática
 ```bash
 grep -q 'bash\|wget' <(dpkg -l) || apt install -y bash wget && wget -O - https://raw.githubusercontent.com/Agusbot-AG-888/Agusbot-Agusbot-MD/master/update.sh | bash
 ```
